@@ -45,35 +45,3 @@ img {
     display: inline;
   }
 }
-
-/*.icon-menu {
-	background-color: #FFEAAA;
-  font-size: 2.5em;
-  position: absolute;
-  top: 20px;
-  right: 20px;
-}
-
-@media only screen and (max-width: 640px) {
-  .main-nav li {
-    display: none; 
-  }
-
-  .main-nav:hover li {
-    display: block; 
-    border-bottom: 2px grey solid;
-  }  
-}
-
-@media only screen and (min-width: 640px) {
-	.icon-menu {
-		display: none;
-  }
-  .main-nav li {
-    display: inline; 
-  }
-}
-
-img {
-  display: block;
-}*/
