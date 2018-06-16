@@ -1,22 +1,22 @@
-# Project Name
+# Kilovolt Blog! "Lab 01: Mobile First"
 
-**Author**: Your Name Goes Here
-**Version**: 1.0.0 (increment the patch/fix version number up if you make more commits past your first submission)
+**Author**: Amanda Moen and Tara Johnson
+**Version**: 1.0.3 (increment the patch/fix version number up if you make more commits past your first submission)
 
 ## Overview
-<!-- Provide a high level overview of what this application is and why you are building it, beyond the fact that it's an assignment for a Code Fellows 301 class. (i.e. What's your problem domain?) -->
+This application is a blog, we are working on styling it by implementing a mobile-first design using responsive-web-design techniques.
 
 ## Getting Started
-<!-- What are the steps that a user must take in order to build this app on their own machine and get it running? -->
+Fork the repo, then clone the repo. Run live-server in the terminal
 
 ## Architecture
-<!-- Provide a detailed description of the application design. What technologies (languages, libraries, etc) you're using, and any other relevant design information. -->
+HTML5 and CSS.  The CSS contains the following: icons.css, normalize.css, base.css, layout.css, and modules.css
 
 ## Change Log
-<!-- Use this are to document the iterative changes made to your application as each feature is successfully implemented. Use time stamps. Here's an examples:
-
-01-01-2001 4:59pm - Application now has a fully-functional express server, with GET and POST routes for the book resource.
+06-05-2018 - Completed TODO's, and set up the file structure.
+06-05-2018 - Worked on mobile first navigation styling.
+06-12-2018 - Completed styling.
+06-15-2018 - Completed README.md
 
 ## Credits and Collaborations
-<!-- Give credit (and a link) to other people or resources that helped you build this application. -->
--->
+Kat Cosgrove
